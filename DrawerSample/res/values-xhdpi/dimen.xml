@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sign_up_bt_top_margin">35dp</dimen>
+    <dimen name="or_tv_top_margin">40dp</dimen>
+    <dimen name="fb_sign_up_margin_top">30dp</dimen>
+    <dimen name="flyout_margin_top">49dp</dimen>
+    
+</resources>
